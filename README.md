@@ -16,7 +16,8 @@ This project allows users to switch between four different shapes (line, triangl
 We create a 400x400 canvas where the shapes will be drawn. The background is set to a light gray using the background() function.
 
 ```javascript
-function setup() { createCanvas(400, 400); // Create a 400x400 canvas background(220); // Set the background color to grayscale value 220 (light gray) }
+function setup() { createCanvas(400, 400); // Create a 400x400
+canvas background(220); // Set the background color to grayscale value 220 (light gray) }
 ```
 
 1.2: Drawing Shapes
